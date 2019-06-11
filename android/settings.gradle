@@ -1,0 +1,3 @@
+rootProject.name = 'MyPropsProj'
+
+include ':app'
